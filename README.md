@@ -21,3 +21,4 @@ Some examples:
 
 - `ms-cxh-full://frxinclusive` - Opens the OOBE full screen.
 - `ms-cxh://test?start=Bing` - Opens Bing in a window.
+- `ms-cxh://frxrdx?start=rdxAdmin` - Creates two new users.
